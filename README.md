@@ -14,3 +14,11 @@ Criando variáveis, criando variáveis com arrays e manipulando elas. Depois mos
 </div>
 
 ##
+
+div align = "center">
+----- Terceiro progrma em PHP! -----</br>
+Modificando o arquivo README.md e nele está suas explicações sobre o programa.</br>
+Criando um laço de repetição com a estrutura for e while e mostrando seus respequitivo resultatdos</br>
+</div>
+
+##
