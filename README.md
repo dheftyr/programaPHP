@@ -32,7 +32,7 @@ Criando um programa que receba um valor de deposito e juros, por fim, Calculando
 ##
 
 <div align = "center">
------ Quinto programa em C! -----</br>
+----- Quinto programa em PHP! -----</br>
 Modificando o arquivo README.md e nele está suas explicações sobre o programa.</br>
 Criando um programa que receba um valor de deposito e juros, por fim, Calculando os redimentos e o valor total!</br>
 </div>
@@ -40,9 +40,16 @@ Criando um programa que receba um valor de deposito e juros, por fim, Calculando
 ##
 
 <div align = "center">
------ Sexto progrma em C! -----</br>
+----- Sexto progrma em PHP! -----</br>
 Modificando o arquivo README.md e nele está suas explicações sobre o programa.</br>
 Criando um programa que receba um número e que seja elevado por outro número e mostre o valor na tela.</br>
+</div>
+
+##
+<div align = "center">
+----- Sétimo progrma em PHP! -----</br>
+Modificando o arquivo README.md e nele está suas explicações sobre o programa.</br>
+Criando um programa que recebe os valores e calcula a área de trapézio.</br>
 </div>
 
 ##
